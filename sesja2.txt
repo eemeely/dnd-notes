@@ -1,0 +1,62 @@
+Sesja 2..
+
+Sesja zaczyna sie od kontynucji rozmowy z litkiem pod domkiem kolo wiezby.
+Bendam mogli sie on dowiedziec o calkiem duzym ruchu pzez te tereny.bend
+Wszyscy podruznicy nie wiedza o swoim pojawieniu sie (sposobie).
+Dowiedza sie rowniez o drodze przez jaskinie ktora prowadzi wzdloz stumyka prowadzeoncego kolo domu.
+W samym strumyku bendzie mozna zobacyc male stadko ryb ktore zazwyczaj nie mozn znalezc w tych  samych srodowiskach (nature 10)
+aka:. sledzie plotki oraz lososcie nie wiem jeszcze.
+w samym strumyku mozna znalezc rowniez mala szkatulke (per 12)
+z odrobina zlota oraz 2 krysztalami ktore swieca lekkom niebieska poswiata.
+Oraz na dnie bendzie znajdowala sie kolczuga +1 oraz short sword.
+Listek zapyta rowniez sie o dzieci i z rozmowy wyniknie ze dzieci benda chcialy z nim zostac.
+
+Sam domek nie jest zbyt duzy jest on postawiony na palach an podmoklym terenie.
+Kawalek od niego znajduje sie rowinez male poletko z roznymi wazywami.
+Ich podruz zacznie sie wraz z podonaniem z biegiem potoku.
+Bendzie on prowadziw przez podobne srodowi do teego w ktorym sie znajduja terz.
+Jezeli benda starali sie czegos dowiedzie (per 7)
+zauwaza odrobine ruchu kolo nich.
+Niestetu po chwili skoczy sie ten ruch.
+Po mniejwiencej 4 godzinach podruzy znajda male jeziorko kolo kturego brzegu znajda maly domeek (opuszczony przy inv 8)
+znajda w nim podstawowe wyposarzenie jak i maly dzienniczek napisany w jenzyku draconic opowiadajoncy krutka histowrie grupik podrozniko ktorzy 
+znalezli sie w tym miejscu po ucieczce przed grupa lizald folk.
+W dzienniczu opisane bendzie rowniez spotkanie z "grupa / kultem" ktury stara sie ich "porwac??"
+Przy tym opisuje krutkie starcie z nimi gdze jeden z ich kompanow (bugber) zostal niestetu ogluszony i w magiczny sposub zniknol.
+poza tym znajda slady (sur 13) ogniska ktore nie bardzo dawno temu sie tu znajdowalo.
+Niestety Podczas przeszukiwanie miejsca gdy benda rozproszeni nagle poczuja dziwny zimny wiatr i zobacz 3 kratury (podobne do ludzi)
+trzymajance worki oraz sieci prubujane ich porwac..
+
+Stat block...
+C0zcziciel::
+1.AC : 14
+HP : 24
+init +2
+Speed 35
+Str 12 +1
+Int 10 +0
+Dex 14 +2
+Wis 10 +0
+Con 13 +2
+Cha 12 +1
+
+Pas per 14
+
+Laungages
+Common celestiall abysall
+
+Akcje:
+Porwanie:
+Wykonuje ten ruch w czasie 1 akcji.
+Jego 1 wybrany przeciwnik musi zrobic dex save na dc 11
+jezeli g przegra w jego natempnej turze nie moze zrobic akcki.
+Akca bonusowa jest dozwolona + moze robic inne akcje.
+
+Atak sierpem.
+
+1d4 + 2
+
+semi elrich blast:
+Robi to samo tylko zadaje 1d8 obrazeni
+spell atack bonus to +2
+
